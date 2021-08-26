@@ -4,7 +4,7 @@ Pre-requisites:
 
 1) Setup a mobile hotspot with the exact following details (because the raspberry pi is setup to run with it):
 	Hotspot name : raspberryOracle
-	Password : Oracle321
+	Password : <shared on mail>
 
 2) Connect to same hotspot using another phone and download and use fing from play store to find raspberry pi public IP address. 
 
@@ -13,7 +13,7 @@ For current setup, it is 129.168.43.140
 3) SSH into the Pi with above public IP and following details :
 
 username : pi
-password : adi123
+password : <shared on mail>
 
 4) Connect the Arduino USB cable to the bottom right USB slot on raspi
 
